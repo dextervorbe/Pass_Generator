@@ -32,3 +32,6 @@ the password will be displayed in an alert or written on the page.
 The following image shows the web application's apperance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./images/03-javascript-homework-demo.png)
+
+# Website Link
+https://dextervorbe.github.io/Pass_Generator/
